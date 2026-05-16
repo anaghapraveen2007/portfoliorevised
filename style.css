@@ -374,5 +374,20 @@ width: 100%;
 .about-content h2{
 font-size: 4rem;
 }
+@media (max-width:768px){
+
+    .logo{
+        display: none;
+    }
+
+    nav{
+        display: none;
+    }
+
+    nav.active{
+        display: block;
+    }
+
+}
 
 }
