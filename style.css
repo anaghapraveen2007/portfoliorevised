@@ -288,6 +288,7 @@ box-shadow: 0 0 20px #5034b5;
 width: 100%;
 border-radius: 1rem;
 margin-bottom: 2rem;
+filter: drop-shadow(0 0 20px #5034b5);
 }
 .project-card h3{
 font-size: 2.5rem;
